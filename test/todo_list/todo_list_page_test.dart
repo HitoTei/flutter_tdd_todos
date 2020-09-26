@@ -1,8 +1,6 @@
-import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/all.dart';
-import 'package:flutter_tdd_todos/entity/todo.dart';
 import 'package:flutter_tdd_todos/repository/prefarence_cliant.dart';
 import 'package:flutter_tdd_todos/repository/sql_database.dart';
 import 'package:flutter_tdd_todos/todo_list/todo_list_page.dart';
